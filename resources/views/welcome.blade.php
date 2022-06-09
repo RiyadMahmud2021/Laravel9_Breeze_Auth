@@ -48,12 +48,15 @@
                     <h1>Breeze Authentication</h1>
                 </div>
                 <div class="text-center"> 
-                <h2> Contanis </h2>
-                    <h5>Login with username and password</h5>
-                    <h5>Register with name, email, username, password</h5>
-                    <h5> Confirm Password System </h5>
-                    <h5> Remember me Option </h5>
-                    <h5> Forgot Password System</h5>
+                <h2> Contains </h2>
+                    <h5> Login with 'username' and 'password'</h5>
+                    <h5> Register with 'name', 'email', 'username', 'password'</h5>
+                    <h5> 'Confirm Password' System </h5>
+                    <h5> 'Remember me' Option </h5>
+                    <h5> 'Forgot Password' System</h5>
+                    <h5> 'Logout' System </h5>
+                    <h5> After Login 'Dashboard'</h5>
+
                 </div>
             </div>
         </div>
